@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Press+Start+2P&display=swap');
+
+
+.home{
+ 
+  margin-left: 20%;
+
+}
+.homeBanner img{
+  height: 80vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homeBannerText h1{
+  margin-bottom: 60px;
+  color: #060b26;
+  text-align: center;
+  font-family: 'DotGothic16', sans-serif;
+    /* font-family: 'DotGothic16', sans-serif; */
+  /* font-family: 'DotGothic16', sans-serif; */
+}
