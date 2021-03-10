@@ -1,0 +1,30 @@
+.academicTimeline img{
+    height: 150vh;
+    display: flex;
+    
+}
+
+
+.divContainer2{
+    display: flex;
+}
+
+.div12{
+    width: 50%;
+    display: flex;
+    padding: 20px;
+}
+.div22{
+    width: 50%;
+    padding: 20px;
+
+
+}
+.infoBox2{
+    display: flex;
+    padding: 20px;
+    border: 5px solid #050921;
+    margin: 5px;
+    border-radius: 10px;
+
+}
