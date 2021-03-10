@@ -4,9 +4,9 @@ import Typical from 'react-typical'
 import About from './about/About';
 import Projects from './projects/Projects';
 import Blogs from './blogs/Blogs';
-import Experience from './experience/Experience';
 import Skills from './skill/Skills';
 import Academics from './academics/academics';
+import Achievments from './achievments/Achievments';
 
 function Home() {
   return (
@@ -31,7 +31,7 @@ function Home() {
       <Projects/>
       <Blogs/>
       <Academics/>
-      <Experience/>
+      <Achievments/>
       <Skills/>
     </div>
   );

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+
+.divSkills{
+    background-color: rgb(164, 165, 168);
+    margin: 30px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100px;
+}
+
+.divContainerSkills{
+    display: flex;
+}
+
+.skillIcons{
+    color: #050921;
+    font-size: 60px;
+
+}
+
+.divSkills p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #050921;
+    font-size: 15px;
+
+}
