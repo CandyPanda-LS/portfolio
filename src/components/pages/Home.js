@@ -26,7 +26,7 @@ function Home() {
         loop={Infinity}
         wrapper="h1"
       />
-    npm install --save react-router-hash-link</div>
+    </div>
       <About/>
       <Projects/>
       <Blogs/>
